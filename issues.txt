@@ -1,0 +1,7 @@
+xxx,closed,ceva reporter,rezolva
+zzz,closed,ceva reporter,rezolva
+ttt,open,ceva reporter,rezolva
+Da2,open,Imre,No solver yet
+Mere,open,Imre,No solver yet
+Nu mere,open,ceva reporter,rezolva
+Nu mere,open,cineva,unu care stie
